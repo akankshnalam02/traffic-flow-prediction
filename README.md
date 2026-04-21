@@ -815,15 +815,7 @@ If you use this project in your research, please cite:
 
 ---
 
-## ⭐ Star History
 
-If you find this project helpful, please consider giving it a star! ⭐
-
-[![Star History Chart](https://api.star-history.com/svg?repos=akankshnalam02/traffic-flow-prediction&type=Date)](https://star-history.com/#akankshnalam02/traffic-flow-prediction&Date)
-
----
-
-<div align="center">
 
 ### 🚦 Traffic Prediction Made Intelligent
 
