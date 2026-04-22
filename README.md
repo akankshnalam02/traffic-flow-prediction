@@ -775,10 +775,10 @@ copies of the Software...
 
 ## 📧 Contact
 
-**Author:** Akanksha Nalam
+**Author:** Akanksh Nalam
 
 - **GitHub:** [@akankshnalam02](https://github.com/akankshnalam02)
-- **Email:** akanksha.nalam@example.com
+- **Email:** sivanalam717@gmail.com
 - **LinkedIn:** [linkedin.com/in/akankshanalam](https://linkedin.com/in/akankshanalam)
 
 **Project Links:**
